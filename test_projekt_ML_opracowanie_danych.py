@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
-DATA_FILE_RAW = 'cars.csv'
+DATA_FILE_RAW = '../data/cars.csv'
 
 
 def main():
